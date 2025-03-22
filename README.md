@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey there! 👋 I'm Amol 🚀  
 
-<!--
-**amoldesai03/amoldesai03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an **Experienced Android Developer** with 4+ years in mobile app development, having launched 10+ apps on the Play Store. Passionate about writing clean, scalable, and high-performance code, I specialize in **logic building**, **performance optimization**, and **architecture design**.  
 
-Here are some ideas to get you started:
+### 🔥 Expertise  
+- **Android Development**: Kotlin, Java, Jetpack Compose, MVVM, Clean Architecture  
+- **Asynchronous & Reactive**: Coroutines, Flow API  
+- **Dependency Injection**: Dagger, Dagger-Hilt  
+- **Database Management**: Room, MySQL, MongoDB  
+- **Networking**: Retrofit  
+- **Testing**: Unit Testing  
+- **Cross-Platform**: Kotlin Multiplatform (KMM), Flutter, Flutter Web  
+- **DevOps**: CI/CD, GitHub Actions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Achievements  
+- **Optimized app startup time** by **30%** in high-traffic applications.  
+- **Reduced app size by 50%** through advanced optimization techniques.  
+- **Migrated legacy codebases** to modern architectures for better maintainability and performance.  
+- **Built and managed projects** across industries like **finance, education, banking, social media, and chat applications**.  
+
+💡 **Collaborated with cross-functional teams** to build scalable, user-centric solutions.  
+
+📫 **Let’s connect!**  
+Open to collaborations and discussions—let’s build something amazing together! 🚀  
