@@ -1,7 +1,7 @@
 # Hey there! 👋 
-I'm Amol 
+# I'm Amol 
 
-I’m an **Experienced Android Developer** with 4+ years in mobile app development, having launched 10+ apps on the Play Store. Passionate about writing clean, scalable, and high-performance code, I specialize in **logic building**, **performance optimization**, and **architecture design**.  
+I’m an **Experienced Android Developer** with 4+ years in mobile app development, having launched 15+ apps on the Play Store. Passionate about writing clean, scalable, and high-performance code, I specialize in **logic building**, **performance optimization**, and **architecture design**.  
 
 ### Expertise  
 - **Android Development**: Kotlin, Java, Jetpack Compose, MVVM, Clean Architecture  
@@ -21,5 +21,3 @@ I’m an **Experienced Android Developer** with 4+ years in mobile app developme
 
 **Collaborated with cross-functional teams** to build scalable, user-centric solutions.  
 
-📫 **Let’s connect!**  
-Open to collaborations and discussions—let’s build something amazing together! 🚀  
