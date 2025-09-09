@@ -1,5 +1,4 @@
-# Hey there! 👋 
-# I'm Amol 
+# Amol R Desai
 
 I’m an **Experienced Android Developer** with 4+ years in mobile app development, having launched 15+ apps on the Play Store. Passionate about writing clean, scalable, and high-performance code, I specialize in **logic building**, **performance optimization**, and **architecture design**.  
 
