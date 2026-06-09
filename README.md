@@ -2,7 +2,7 @@
 
 **Android & Kotlin Multiplatform Engineer — AI-augmented development**
 
-Nashik, India · 15+ apps shipped to the Play Store · [LinkedIn](https://www.linkedin.com/in/amol-desai-ba6818196/)
+Nashik, India · 15+ apps shipped to the Play Store · [LinkedIn](https://www.linkedin.com/in/amoldesai03/)
 
 I build production mobile apps with 5+ years of experience, currently focused on **Kotlin Multiplatform** — shipping one codebase to Android, iOS, and Desktop with Compose Multiplatform — and on using **GenAI tooling as a force multiplier** in how I design, build, and test software.
 
@@ -31,7 +31,22 @@ Production-grade KMP architecture, not proof-of-concept work:
 
 ## Toolbox
 
-Kotlin · Compose Multiplatform · Jetpack Compose · Ktor · gRPC / Wire · SQLDelight · Koin · Hilt · Coroutines & Flow · Room · Retrofit · GitHub Actions · Claude Code · Flutter
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=flat&logo=jetpackcompose&logoColor=white" alt="Compose Multiplatform"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=flat&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
+  <img src="https://img.shields.io/badge/Ktor-087CFA?style=flat&logo=ktor&logoColor=white" alt="Ktor"/>
+  <img src="https://img.shields.io/badge/gRPC%20%2F%20Wire-244B5A?style=flat" alt="gRPC / Wire"/>
+  <img src="https://img.shields.io/badge/SQLDelight-03589C?style=flat" alt="SQLDelight"/>
+  <img src="https://img.shields.io/badge/Koin-F88909?style=flat" alt="Koin"/>
+  <img src="https://img.shields.io/badge/Hilt%20%2F%20Dagger-2196F3?style=flat" alt="Hilt / Dagger"/>
+  <img src="https://img.shields.io/badge/Coroutines%20%26%20Flow-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Coroutines and Flow"/>
+  <img src="https://img.shields.io/badge/Room-4CAF50?style=flat" alt="Room"/>
+  <img src="https://img.shields.io/badge/Retrofit-48B983?style=flat" alt="Retrofit"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
+</p>
 
 ## Selected work
 
@@ -46,4 +61,4 @@ Kotlin · Compose Multiplatform · Jetpack Compose · Ktor · gRPC / Wire · SQL
 
 ---
 
-Open to interesting KMP and AI-in-mobile problems — reach out on [LinkedIn](https://www.linkedin.com/in/amoldesai03).
+Open to interesting KMP and AI-in-mobile problems — reach out on [LinkedIn](https://www.linkedin.com/in/amoldesai03/).
